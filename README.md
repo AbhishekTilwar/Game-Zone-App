@@ -21,6 +21,11 @@ _Game Zone Consists of collection of many Game, Using Firebase_
 
 ![image](https://user-images.githubusercontent.com/63442418/82764759-d9eb9280-9e2e-11ea-84b4-131847b6fb01.png)
 
+*QUICK GAME :*
+
+![image](https://user-images.githubusercontent.com/63442418/82764840-947b9500-9e2f-11ea-8d0c-94d3bd1be23c.png)
+
+
 
 _**Still working.......**_
 
