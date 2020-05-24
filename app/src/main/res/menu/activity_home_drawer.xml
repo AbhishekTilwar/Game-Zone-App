@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:iconTint="@android:color/white"
+            android:icon="@drawable/ic_play_circle_filled_black_24dp"
+            android:title="@string/menu_item" />
+        <item
+            android:id="@+id/nav_cart"
+            android:iconTint="@android:color/white"
+            android:icon="@drawable/ic_play_circle_filled_black_24dp"
+            android:title="@string/menu_cart" />
+        <item
+            android:id="@+id/nav_orders"
+            android:iconTint="@android:color/white"
+            android:icon="@drawable/ic_play_circle_filled_black_24dp"
+            android:title="@string/menu_order" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:iconTint="@android:color/white"
+            android:icon="@drawable/ic_play_circle_filled_black_24dp"
+            android:title="@string/menu_logout" />
+
+
+    </group>
+</menu>

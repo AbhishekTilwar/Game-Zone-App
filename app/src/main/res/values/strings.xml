@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="slogan">Game</string>
+    <string name="welcome_to_alms"> \t \t \t In the game of \n   life, before you get anything out, you \n \t \t \t \t \t \t \t \t must \n \t put something in!</string>
+    <string name="Alams">Game-play</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">\t Hello..</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Games</string>
+    <string name="menu_gallery">Cart</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="menu_cart">Game:2</string>
+    <string name="menu_order">Game:3</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_setting" />
+    <string name="menu_item">Game:1</string>
+</resources>
