@@ -17,7 +17,12 @@ _Game Zone Consists of collection of many Game, Using Firebase_
 
 ![image](https://user-images.githubusercontent.com/63442418/82764649-f89d5980-9e2d-11ea-96ac-118f415fd16e.png)
 
-**Game Screen Appear when you click play icon on Main Activiy**
+**Game Screen Appear when you click _play icon_ on Main Activiy**
+
+![image](https://user-images.githubusercontent.com/63442418/82764759-d9eb9280-9e2e-11ea-84b4-131847b6fb01.png)
+
+
+_**Still working.......**_
 
 
 
