@@ -1,9 +1,23 @@
-# **_Game-Zone-App_**
+# **_Game-Zone-App_** : _Still working on Project_
 _Game Zone Consists of collection of many Game, Using Firebase_
 
-**Main Page:**
+**Main Activity:**
 
 ![image](https://user-images.githubusercontent.com/63442418/82764536-13230300-9e2d-11ea-8ab0-84b7f783b0f2.png)
 
-**Sign In Activity**
+**Sign In Activity:**
+
+![image](https://user-images.githubusercontent.com/63442418/82764596-87f63d00-9e2d-11ea-8b99-885832086b08.png)
+
+**Sign Up Activity:**
+
+![image](https://user-images.githubusercontent.com/63442418/82764603-a5c3a200-9e2d-11ea-92a8-02b859486dc3.png)
+
+**Menu:**
+
+![image](https://user-images.githubusercontent.com/63442418/82764649-f89d5980-9e2d-11ea-96ac-118f415fd16e.png)
+
+**Game Screen Appear when you click play icon on Main Activiy**
+
+
 
